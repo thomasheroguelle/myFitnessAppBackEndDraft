@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+pom.xml
+src/main/resources/application.properties
+src/main/resources/db/tables/create
+docker-compose.yml
